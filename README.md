@@ -46,10 +46,15 @@ For mitigation, the report mentioned installing Microsoft updates, enabling DEP,
 
 ## Task 6 Reflection Questions
 1. How does the Diamond Model help in understanding threat actors?
-    The diamond model helps us to divide a cyberattack into 4 parts so that we will not only look at one or two details, but understand the whole scenario as well. We may recognize attacker, tools, targets and how the attack is delivered clearly by leveraging this model.
+
+   The diamond model helps us to divide a cyberattack into 4 parts so that we will not only look at one or two details, but understand the whole scenario as well. We may recognize attacker, tools, targets and how the attack is delivered clearly by leveraging this model.
+
+
 
 2. What challenges did you face in identifying each vertex?
-    The most challenge is how to recognize what is a infrastructure and what is a capability, because sometimes the malware is stored or delivered through the server, so it feels like they are the same thing. I needed to remind myself that capability is the tool itself, and infrastructure is just where it is hosted or used, not part of the tool.
+   The most challenge is how to recognize what is a infrastructure and what is a capability, because sometimes the malware is stored or delivered through the server, so it feels like they are the same thing. I needed to remind myself that capability is the tool itself, and infrastructure is just where it is hosted or used, not part of the tool.
+
+
 
 3. How could this model support proactive defense strategies?
-    This model can help because if we understand how attackers usually operate, we can detect similar patterns earlier in the future. By knowing their tools, targets, and infrastructure style, security teams can block or monitor it before damage happens. So it’s useful not only for investigation, but also for preparing better defenses.
+   This model can help because if we understand how attackers usually operate, we can detect similar patterns earlier in the future. By knowing their tools, targets, and infrastructure style, security teams can block or monitor it before damage happens. So it’s useful not only for investigation, but also for preparing better defenses.
