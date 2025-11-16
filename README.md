@@ -32,7 +32,7 @@ This is a structural model which is used to analyze cyber attacks, threaten beha
 
 ## Task 4 Create a Diamond Diagram
 
-![Diamond Model](screenshots\Task4_DiamondModel.png)
+![Diamond Model](screenshots/Task4_DiamondModel.png)
 
 ## Task 5 Threat Actor Profile Summary
 
